@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 123 adding some content to a file. Making changes to a file
+=======
+adding some content to a file. Making changes to a file. 123
+
+
+>>>>>>> 12db5d74978be8d334ac008fa838921146577401
