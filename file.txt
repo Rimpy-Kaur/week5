@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 123 adding some content to a file. Making changes to a file. 123 ABC
+=======
+ABC 123 adding some content to a file. Making changes to a file. 123
+>>>>>>> 7c4de3cffabbcd5ab1234f9a515b0fc029f94143
